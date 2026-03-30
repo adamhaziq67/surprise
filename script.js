@@ -33,7 +33,7 @@ $(document).ready(function(){
 
     }, 1000);
 
-    // Huruf "HAPPY BIRTHDAY DINA SYAMIMI" jatuh satu-persatu
+    // Huruf "HAPPY BIRTHDAY HAKIM IZAFRA" jatuh satu-persatu
     $("#wish").children("div").each(function(index){
       setTimeout(bounceIn.bind(null, $(this)), 2500+index*100)
     });
