@@ -28,7 +28,7 @@ $(document).ready(function(){
       $("#message").css({
         "opacity": "1",
         "left": "-280px", // Bergerak ke kiri kotak
-        "top": "-50px"    // Naik atas sikit supaya selari dengan kucing
+        "top": "-80px"    // Naik atas sikit supaya selari dengan kucing
       });
 
     }, 1000);
