@@ -12,7 +12,7 @@ body {
   height: 90vh;
   width: 100vw;
   background: #E8E2EE;
-  padding: 5vh 0;
+  gap: 10px;
   margin: 0;
   border: 0;
 }
